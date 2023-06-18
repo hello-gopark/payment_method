@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-lz&&n%wub=_(b2owz_)(%pgmdm43hv44rcyk6g4e(7um+l(qci
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gopark.pythonanywhere.com']
 
 
 # Application definition
